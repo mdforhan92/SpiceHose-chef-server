@@ -1,0 +1,206 @@
+[
+    {
+        "id": "1",
+        "chef_name": "Julia Child",
+        "country": "USA",
+        "years_of_experience": 25,
+        "num_recipes": 100,
+        "likes": 5000,
+        "rating": 4.8,
+        "description": "Julia Child was an American chef, author, and television personality. She is best known for introducing French cuisine to the American public through her cookbook 'Mastering the Art of French Cooking' and her television show 'The French Chef'. Child's approach to cooking was fun and approachable, and she encouraged viewers to experiment in the kitchen. She was also a vocal advocate for using fresh, high-quality ingredients.",
+        "picture_url": "https://static.cordonbleu.edu/Files/MediaFile/70794.jpg",
+        "recipes": [
+            {
+              "name": "Creamy Garlic Chicken",
+              "ingredients": "4 boneless chicken breasts,2 tablespoons olive oil,2 cloves garlic, minced,1 cup heavy cream,1/2 cup grated Parmesan cheese,Salt and pepper to taste",
+              "method": "Season chicken breasts with salt and pepper, Heat olive oil in a large skillet over medium heat,Add minced garlic and cook for 1-2 minutes until fragrant, Add chicken breasts to the skillet and cook for 6-7 minutes per side until cooked through, Remove chicken from the skillet and set aside, Add heavy cream to the skillet and bring to a simmer, Stir in grated Parmesan cheese until melted and combined,Season with salt and pepper to taste, Return chicken to the skillet and spoon the sauce over it, Serve hot.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-11.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+              "name": "Vegetarian Chili",
+              "ingredients": "1 tablespoon olive oil,1 onion, chopped,2 cloves garlic, minced,2 bell peppers, chopped,2 cans black beans, drained and rinsed,1 can diced tomatoes,1 cup vegetable broth,1 tablespoon chili powder,1 teaspoon ground cumin,Salt and pepper to taste",
+              "method":"Heat olive oil in a large pot over medium heat.Add chopped onion and minced garlic and cook for 2-3 minutes until softened.Add chopped bell peppers and cook for another 2-3 minutes.Add drained and rinsed black beans, diced tomatoes, vegetable broth, chili powder, and ground cumin.Stir to combine and bring to a simmer.Reduce heat to low and simmer for 20-25 minutes.Season with salt and pepper to taste. Serve hot with your choice of toppings, such as shredded cheese, sour cream, or diced avocado.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-13.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": "1/2 cup unsalted butter, at room temperature,1/2 cup granulated sugar,1/2 cup brown sugar,1 egg,1 teaspoon vanilla extract,1 1/2 cups all-purpose flour,1/2 teaspoon baking soda,1/2 teaspoon salt,1 cup semisweet chocolate chips.",
+                "method":"Preheat oven to 350°F (175°C).In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.Add egg and vanilla extract and beat until well combined.In a separate bowl, whisk together flour, baking soda, and salt.Gradually add the dry ingredients to the butter mixture, mixing until just combined.Stir in chocolate chips.Drop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.Bake for 10-12 minutes until lightly golden brown around the edges.Remove from the oven and let cool on the baking sheet for 5 minutes.Transfer to a wire rack to cool completely before serving.",
+                "recipes_img": "https://hips.hearstapps.com/hmg-prod/images/20191011-creamy-tuscan-chicken-delish-ehg-2521-1571259466.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=980:*",
+                "rating_recipe": 4.5  
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "chef_name": "Gordon Ramsay",
+        "country": "UK",
+        "years_of_experience": 30,
+        "num_recipes": 150,
+        "likes": 10000,
+        "rating": 4.7,
+        "description": "Gordon Ramsay is a British chef, restaurateur, and television personality. He has earned multiple Michelin stars for his restaurants and is known for his fiery personality both in the kitchen and on television shows such as 'Hell's Kitchen' and 'MasterChef'. Ramsay's cooking style is influenced by French and British cuisine, and he is particularly skilled at preparing meat dishes.",
+        "picture_url": "https://static.cordonbleu.edu/Files/MediaFile/62488.jpg",
+        "recipes": [
+            {
+              "name": "Creamy Garlic Chicken",
+              "ingredients": "4 boneless chicken breasts,2 tablespoons olive oil,2 cloves garlic, minced,1 cup heavy cream,1/2 cup grated Parmesan cheese,Salt and pepper to taste",
+              "method": "Season chicken breasts with salt and pepper, Heat olive oil in a large skillet over medium heat,Add minced garlic and cook for 1-2 minutes until fragrant, Add chicken breasts to the skillet and cook for 6-7 minutes per side until cooked through, Remove chicken from the skillet and set aside, Add heavy cream to the skillet and bring to a simmer, Stir in grated Parmesan cheese until melted and combined,Season with salt and pepper to taste, Return chicken to the skillet and spoon the sauce over it, Serve hot.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-11.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+              "name": "Vegetarian Chili",
+              "ingredients": "1 tablespoon olive oil,1 onion, chopped,2 cloves garlic, minced,2 bell peppers, chopped,2 cans black beans, drained and rinsed,1 can diced tomatoes,1 cup vegetable broth,1 tablespoon chili powder,1 teaspoon ground cumin,Salt and pepper to taste",
+              "method":"Heat olive oil in a large pot over medium heat.Add chopped onion and minced garlic and cook for 2-3 minutes until softened.Add chopped bell peppers and cook for another 2-3 minutes.Add drained and rinsed black beans, diced tomatoes, vegetable broth, chili powder, and ground cumin.Stir to combine and bring to a simmer.Reduce heat to low and simmer for 20-25 minutes.Season with salt and pepper to taste. Serve hot with your choice of toppings, such as shredded cheese, sour cream, or diced avocado.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-13.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": "1/2 cup unsalted butter, at room temperature,1/2 cup granulated sugar,1/2 cup brown sugar,1 egg,1 teaspoon vanilla extract,1 1/2 cups all-purpose flour,1/2 teaspoon baking soda,1/2 teaspoon salt,1 cup semisweet chocolate chips.",
+                "method":"Preheat oven to 350°F (175°C).In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.Add egg and vanilla extract and beat until well combined.In a separate bowl, whisk together flour, baking soda, and salt.Gradually add the dry ingredients to the butter mixture, mixing until just combined.Stir in chocolate chips.Drop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.Bake for 10-12 minutes until lightly golden brown around the edges.Remove from the oven and let cool on the baking sheet for 5 minutes.Transfer to a wire rack to cool completely before serving.",
+                "recipes_img": "https://hips.hearstapps.com/hmg-prod/images/20191011-creamy-tuscan-chicken-delish-ehg-2521-1571259466.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=980:*",
+                "rating_recipe": 4.5  
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "chef_name": "Chef Sarju Ranavaya",
+        "country": "Italy",
+        "years_of_experience": 20,
+        "num_recipes": 80,
+        "likes": 7000,
+        "rating": 4.9,
+        "description": "Chef Sarju Ranavaya is an Italian chef and restaurateur who is widely regarded as one of the best chefs in the world. He is the owner and head chef of Osteria Francescana in Modena, Italy, which has been named the world's best restaurant multiple times. Bottura's cooking style is inventive and creative, often taking traditional Italian dishes and putting a modern twist on them.",
+        "picture_url": "https://static.cordonbleu.edu/Files/MediaFile/70795.jpg",
+        "recipes": [
+            {
+              "name": "Creamy Garlic Chicken",
+              "ingredients": "4 boneless chicken breasts,2 tablespoons olive oil,2 cloves garlic, minced,1 cup heavy cream,1/2 cup grated Parmesan cheese,Salt and pepper to taste",
+              "method": "Season chicken breasts with salt and pepper, Heat olive oil in a large skillet over medium heat,Add minced garlic and cook for 1-2 minutes until fragrant, Add chicken breasts to the skillet and cook for 6-7 minutes per side until cooked through, Remove chicken from the skillet and set aside, Add heavy cream to the skillet and bring to a simmer, Stir in grated Parmesan cheese until melted and combined,Season with salt and pepper to taste, Return chicken to the skillet and spoon the sauce over it, Serve hot.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-11.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+              "name": "Vegetarian Chili",
+              "ingredients": "1 tablespoon olive oil,1 onion, chopped,2 cloves garlic, minced,2 bell peppers, chopped,2 cans black beans, drained and rinsed,1 can diced tomatoes,1 cup vegetable broth,1 tablespoon chili powder,1 teaspoon ground cumin,Salt and pepper to taste",
+              "method":"Heat olive oil in a large pot over medium heat.Add chopped onion and minced garlic and cook for 2-3 minutes until softened.Add chopped bell peppers and cook for another 2-3 minutes.Add drained and rinsed black beans, diced tomatoes, vegetable broth, chili powder, and ground cumin.Stir to combine and bring to a simmer.Reduce heat to low and simmer for 20-25 minutes.Season with salt and pepper to taste. Serve hot with your choice of toppings, such as shredded cheese, sour cream, or diced avocado.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-13.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": "1/2 cup unsalted butter, at room temperature,1/2 cup granulated sugar,1/2 cup brown sugar,1 egg,1 teaspoon vanilla extract,1 1/2 cups all-purpose flour,1/2 teaspoon baking soda,1/2 teaspoon salt,1 cup semisweet chocolate chips.",
+                "method":"Preheat oven to 350°F (175°C).In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.Add egg and vanilla extract and beat until well combined.In a separate bowl, whisk together flour, baking soda, and salt.Gradually add the dry ingredients to the butter mixture, mixing until just combined.Stir in chocolate chips.Drop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.Bake for 10-12 minutes until lightly golden brown around the edges.Remove from the oven and let cool on the baking sheet for 5 minutes.Transfer to a wire rack to cool completely before serving.",
+                "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-13.jpg",
+                "rating_recipe": 4.5  
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "chef_name": "Poh Ling Yeow",
+        "country": "Australia",
+        "years_of_experience": 15,
+        "num_recipes": 50,
+        "likes": 2000,
+        "rating": 4.6,
+        "description": "Poh Ling Yeow is an American pastry chef and owner of Milk Bar, a chain of dessert and bakery shops. She is known for her playful and whimsical approach to baking, incorporating unexpected flavors and textures into her desserts. Tosi is a three-time James Beard Foundation Award winner and has been featured on several cooking and baking television shows.",
+        "picture_url": "https://static.cordonbleu.edu/Files/MediaFile/82252.jpg",
+        "recipes": [
+            {
+              "name": "Creamy Garlic Chicken",
+              "ingredients": "4 boneless chicken breasts,2 tablespoons olive oil,2 cloves garlic, minced,1 cup heavy cream,1/2 cup grated Parmesan cheese,Salt and pepper to taste",
+              "method": "Season chicken breasts with salt and pepper, Heat olive oil in a large skillet over medium heat,Add minced garlic and cook for 1-2 minutes until fragrant, Add chicken breasts to the skillet and cook for 6-7 minutes per side until cooked through, Remove chicken from the skillet and set aside, Add heavy cream to the skillet and bring to a simmer, Stir in grated Parmesan cheese until melted and combined,Season with salt and pepper to taste, Return chicken to the skillet and spoon the sauce over it, Serve hot.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-11.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+              "name": "Vegetarian Chili",
+              "ingredients": "1 tablespoon olive oil,1 onion, chopped,2 cloves garlic, minced,2 bell peppers, chopped,2 cans black beans, drained and rinsed,1 can diced tomatoes,1 cup vegetable broth,1 tablespoon chili powder,1 teaspoon ground cumin,Salt and pepper to taste",
+              "method":"Heat olive oil in a large pot over medium heat.Add chopped onion and minced garlic and cook for 2-3 minutes until softened.Add chopped bell peppers and cook for another 2-3 minutes.Add drained and rinsed black beans, diced tomatoes, vegetable broth, chili powder, and ground cumin.Stir to combine and bring to a simmer.Reduce heat to low and simmer for 20-25 minutes.Season with salt and pepper to taste. Serve hot with your choice of toppings, such as shredded cheese, sour cream, or diced avocado.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-13.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": "1/2 cup unsalted butter, at room temperature,1/2 cup granulated sugar,1/2 cup brown sugar,1 egg,1 teaspoon vanilla extract,1 1/2 cups all-purpose flour,1/2 teaspoon baking soda,1/2 teaspoon salt,1 cup semisweet chocolate chips.",
+                "method":"Preheat oven to 350°F (175°C).In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.Add egg and vanilla extract and beat until well combined.In a separate bowl, whisk together flour, baking soda, and salt.Gradually add the dry ingredients to the butter mixture, mixing until just combined.Stir in chocolate chips.Drop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.Bake for 10-12 minutes until lightly golden brown around the edges.Remove from the oven and let cool on the baking sheet for 5 minutes.Transfer to a wire rack to cool completely before serving.",
+                "recipes_img": "https://hips.hearstapps.com/hmg-prod/images/20191011-creamy-tuscan-chicken-delish-ehg-2521-1571259466.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=980:*",
+                "rating_recipe": 4.5  
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "chef_name": "Vikas Khanna",
+        "country": "India",
+        "years_of_experience": 18,
+        "num_recipes": 75,
+        "likes": 8000,
+        "rating": 4.5,
+        "description": "Vikas Khanna is an Indian chef, restaurateur, and food writer. He is the owner of several restaurants in London and is known for his vibrant and flavorful vegetarian dishes. Ottolenghi's cooking style is influenced by his Israeli heritage and his travels throughout the Middle East and Mediterranean.",
+        "picture_url": "https://static.cordonbleu.edu/Files/MediaFile/62488.jpg",
+        "recipes": [
+            {
+              "name": "Creamy Garlic Chicken",
+              "ingredients": "4 boneless chicken breasts,2 tablespoons olive oil,2 cloves garlic, minced,1 cup heavy cream,1/2 cup grated Parmesan cheese,Salt and pepper to taste",
+              "method": "Season chicken breasts with salt and pepper, Heat olive oil in a large skillet over medium heat,Add minced garlic and cook for 1-2 minutes until fragrant, Add chicken breasts to the skillet and cook for 6-7 minutes per side until cooked through, Remove chicken from the skillet and set aside, Add heavy cream to the skillet and bring to a simmer, Stir in grated Parmesan cheese until melted and combined,Season with salt and pepper to taste, Return chicken to the skillet and spoon the sauce over it, Serve hot.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-11.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+              "name": "Vegetarian Chili",
+              "ingredients": "1 tablespoon olive oil,1 onion, chopped,2 cloves garlic, minced,2 bell peppers, chopped,2 cans black beans, drained and rinsed,1 can diced tomatoes,1 cup vegetable broth,1 tablespoon chili powder,1 teaspoon ground cumin,Salt and pepper to taste",
+              "method":"Heat olive oil in a large pot over medium heat.Add chopped onion and minced garlic and cook for 2-3 minutes until softened.Add chopped bell peppers and cook for another 2-3 minutes.Add drained and rinsed black beans, diced tomatoes, vegetable broth, chili powder, and ground cumin.Stir to combine and bring to a simmer.Reduce heat to low and simmer for 20-25 minutes.Season with salt and pepper to taste. Serve hot with your choice of toppings, such as shredded cheese, sour cream, or diced avocado.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-13.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": "1/2 cup unsalted butter, at room temperature,1/2 cup granulated sugar,1/2 cup brown sugar,1 egg,1 teaspoon vanilla extract,1 1/2 cups all-purpose flour,1/2 teaspoon baking soda,1/2 teaspoon salt,1 cup semisweet chocolate chips.",
+                "method":"Preheat oven to 350°F (175°C).In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.Add egg and vanilla extract and beat until well combined.In a separate bowl, whisk together flour, baking soda, and salt.Gradually add the dry ingredients to the butter mixture, mixing until just combined.Stir in chocolate chips.Drop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.Bake for 10-12 minutes until lightly golden brown around the edges.Remove from the oven and let cool on the baking sheet for 5 minutes.Transfer to a wire rack to cool completely before serving.",
+                "recipes_img": "https://hips.hearstapps.com/hmg-prod/images/20191011-creamy-tuscan-chicken-delish-ehg-2521-1571259466.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=980:*",
+                "rating_recipe": 4.5  
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "chef_name": "Mitsuharu Tsumura",
+        "country": "Peru",
+        "years_of_experience": 12,
+        "num_recipes": 60,
+        "likes": 3000,
+        "rating": 4.8,
+        "description": "Mitsuharu Tsumura is an Peru chef and television personality. He is the owner and head chef of Blue Dragon, a restaurant in Boston that serves Asian-inspired cuisine. Tsai is known for his expertise in Asian cooking and has been featured on several cooking and food television shows, including 'Simply Ming' and 'Iron Chef America'. He is also a vocal advocate for sustainable seafood.",
+        "picture_url": "https://static.cordonbleu.edu/Files/MediaFile/82253.jpg",
+        "recipes": [
+            {
+              "name": "Creamy Garlic Chicken",
+              "ingredients": "4 boneless chicken breasts,2 tablespoons olive oil,2 cloves garlic, minced,1 cup heavy cream,1/2 cup grated Parmesan cheese,Salt and pepper to taste",
+              "method": "Season chicken breasts with salt and pepper, Heat olive oil in a large skillet over medium heat,Add minced garlic and cook for 1-2 minutes until fragrant, Add chicken breasts to the skillet and cook for 6-7 minutes per side until cooked through, Remove chicken from the skillet and set aside, Add heavy cream to the skillet and bring to a simmer, Stir in grated Parmesan cheese until melted and combined,Season with salt and pepper to taste, Return chicken to the skillet and spoon the sauce over it, Serve hot.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-11.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+              "name": "Vegetarian Chili",
+              "ingredients": "1 tablespoon olive oil,1 onion, chopped,2 cloves garlic, minced,2 bell peppers, chopped,2 cans black beans, drained and rinsed,1 can diced tomatoes,1 cup vegetable broth,1 tablespoon chili powder,1 teaspoon ground cumin,Salt and pepper to taste",
+              "method":"Heat olive oil in a large pot over medium heat.Add chopped onion and minced garlic and cook for 2-3 minutes until softened.Add chopped bell peppers and cook for another 2-3 minutes.Add drained and rinsed black beans, diced tomatoes, vegetable broth, chili powder, and ground cumin.Stir to combine and bring to a simmer.Reduce heat to low and simmer for 20-25 minutes.Season with salt and pepper to taste. Serve hot with your choice of toppings, such as shredded cheese, sour cream, or diced avocado.",
+              "recipes_img": "https://i2.wp.com/www.downshiftology.com/wp-content/uploads/2015/11/shakshuka-13.jpg",
+              "rating_recipe": 4.5
+            },
+            {
+                "name": "Shepherd's Pie",
+                "ingredients": "1/2 cup unsalted butter, at room temperature,1/2 cup granulated sugar,1/2 cup brown sugar,1 egg,1 teaspoon vanilla extract,1 1/2 cups all-purpose flour,1/2 teaspoon baking soda,1/2 teaspoon salt,1 cup semisweet chocolate chips.",
+                "method":"Preheat oven to 350°F (175°C).In a large mixing bowl, cream together butter, granulated sugar, and brown sugar until light and fluffy.Add egg and vanilla extract and beat until well combined.In a separate bowl, whisk together flour, baking soda, and salt.Gradually add the dry ingredients to the butter mixture, mixing until just combined.Stir in chocolate chips.Drop tablespoon-sized balls of dough onto a baking sheet lined with parchment paper.Bake for 10-12 minutes until lightly golden brown around the edges.Remove from the oven and let cool on the baking sheet for 5 minutes.Transfer to a wire rack to cool completely before serving.",
+                "recipes_img": "https://hips.hearstapps.com/hmg-prod/images/20191011-creamy-tuscan-chicken-delish-ehg-2521-1571259466.jpg?crop=0.668xw:1.00xh;0.160xw,0&resize=980:*",
+                "rating_recipe": 4.5  
+            }
+        ]
+    }
+]
